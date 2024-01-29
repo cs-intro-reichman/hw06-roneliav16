@@ -7,20 +7,20 @@ public class Runigram {
 
 	public static void main(String[] args) {
 	    
-		//// Hide / change / add to the testing code below, as needed.
-		
-		// Tests the reading and printing of an image:	
-		Color[][] tinypic = read("tinypic.ppm");
-		print(tinypic);
-
-		// Creates an image which will be the result of various 
+//		//// Hide / change / add to the testing code below, as needed.
+//		
+//		// Tests the reading and printing of an image:	
+//		Color[][] tinypic = read("tinypic.ppm");
+//		print(tinypic);
+//
+//		// Creates an image which will be the result of various 
 		// image processing operations:
-		Color[][] imageOut;
-
-		// Tests the horizontal flipping of an image:
-		imageOut = flippedVertically(tinypic);
-		System.out.println();
-		print(imageOut);
+//		Color[][] imageOut;
+//
+//		// Tests the horizontal flipping of an image:
+//		imageOut = flippedVertically(tinypic);
+//		System.out.println();
+//		print(imageOut);
 		
 		//// Write here whatever code you need in order to test your work.
 		//// You can reuse / overide the contents of the imageOut array.
